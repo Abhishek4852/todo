@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.task-input input {
+  padding: 8px;
+  margin-right: 10px;
+}
+.task-item {
+  list-style: none;
+  padding: 10px;
+  margin: 5px;
+  background: white;
+  border-radius: 5px;
+}
+.high {
+  border-left: 5px solid red;
+}
+.medium {
+  border-left: 5px solid orange;
+}
+.low {
+  border-left: 5px solid green;
+}
