@@ -151,11 +151,7 @@ react-todo-app/
 
 ---
 
-## **9. Contact Information**
-For queries, email **hr.quadbtech@gmail.com** with the subject **“React JS Internship”**.
 
----
-
-## **10. Conclusion**
+## **9. Conclusion**
 This project is an opportunity to assess candidates’ frontend development skills comprehensively, from React fundamentals to state management and API handling. Completing it successfully demonstrates the ability to build a full-fledged React application with real-world functionalities.
 
